@@ -40,6 +40,6 @@ module.exports = {
 
     message.channel.send(new MessageEmbed()
     .setColor("#c219d8")
-    .setTitle(`<:CHECKMARK:770290491731476500> Successfully set new prefix to **\`${args[0]}\`**`))
+    .setTitle(`<:white_check_mark: 770290491731476500> Successfully set new prefix to **\`${args[0]}\`**`))
   }
 }
