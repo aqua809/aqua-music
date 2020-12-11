@@ -24,7 +24,7 @@ module.exports = {
     let helpEmbed = new MessageEmbed()
       .setTitle("Music Help")
       .setDescription(`**Version:** \`v2.8\` \n**PREFIX:** \`${PREFIX}\``)
-      .setFooter( client.user.username +`Type: ${prefix}help <Command>  for more information!`, "https://cdn.discordapp.com/avatars/769642999227351070/f1b78891507308fb76c0a66b56f4bcd6.webp")
+      .setFooter( client.user.username +`Type: ${prefix}help <Command>  for more information!`, "https://cdn.discordapp.com/avatars/771222165558263829/82293edd5dcc0375d34514a1ebae3c99.png?size=1024")
       .setColor("#c219d8");
     //define argstrue to negative
     let ifargstruedothis = -1;
